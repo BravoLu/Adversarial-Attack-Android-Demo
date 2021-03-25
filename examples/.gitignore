@@ -1,0 +1,8 @@
+.DS_Store
+.project
+.vscode
+.settings
+.cxx
+.classpath
+x86/build_x86_linux
+x86/build_x86_windows
